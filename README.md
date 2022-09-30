@@ -33,7 +33,7 @@ AIFFEL 강남 4기 해커톤 팀 아폴로입니다.
 <br/><br/><br/>
 
 ## Library
-`MMROTATE` `GDAL` `Shapely` `Albumentation`
+`MMRotate` `GDAL` `Shapely` `Albumentation`
 <br/><br/>
 
 ## Stack
