@@ -73,7 +73,9 @@
 ||Mean Precision|0.656|0.667|
 ||Mean F1 Score|0.732|0.742|
 ||Mean AP|0.762|0.766|
-
+  
+<br/><br/>
+  
 ### After Patch + GSD Performance
 |||Before Improvement|After Improvement|
 |---|---|---|---|
