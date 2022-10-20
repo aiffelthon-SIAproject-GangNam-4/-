@@ -25,11 +25,71 @@
 ||Precision|0.805|0.798|
 ||F1-Score|0.839|0.838|
 ||AP|0.816|0.817|
-  
+|Total|Mean Recall|0.835|0.843|
+||Mean Precision|0.656|0.664|
+||Mean F1 Score|0.732|0.740|
+||Mean AP|0.762|0.766|
+
+<br/><br/><br/>
+## Inference Improvement
+### After Patch Performance
+|||Before Improvement|After Improvement|
+|---|---|---|---|
+|Vehicle|Recall|0.868|0.840|
+||Precision|0.624|0.560|
+||F1-Score|0.726|0.672|
+||AP|0.799|0.788|
+|Ship|Recall|0.761|0.801|
+||Precision|0.539|0.523|
+||F1-Score|0.631|0.633|
+||AP|0.670|0.738|
+|Airplane|Recall|0.876|0.969|
+||Precision|0.805|0.742|
+||F1-Score|0.839|0.840|
+||AP|0.816|0.908|
+|Total|Mean Recall|0.835|0.870|
+||Mean Precision|0.656|0.608|
+||Mean F1 Score|0.732|0.715|
+||Mean AP|0.762|0.811|
+
 <br/><br/>
-||Before Improvement|After Improvement|
-|---|---|---|
-|Mean Recall|0.835|0.843|
-|Mean Precision|0.656|0.664|
-|Mean F1 Score|0.732|0.740|
-|Mean AP|0.762|0.766|
+
+### After GSD Performance
+|||Before Improvement|After Improvement|
+|---|---|---|---|
+|Vehicle|Recall|0.868|0.869|
+||Precision|0.624|0.624|
+||F1-Score|0.726|0.726|
+||AP|0.799|0.799|
+|Ship|Recall|0.761|0.777|
+||Precision|0.539|0.570|
+||F1-Score|0.631|0.657|
+||AP|0.670|0.684|
+|Airplane|Recall|0.876|0.881|
+||Precision|0.805|0.809|
+||F1-Score|0.839|0.844|
+||AP|0.816|0.817|
+|Total|Mean Recall|0.835|0.843|
+||Mean Precision|0.656|0.667|
+||Mean F1 Score|0.732|0.742|
+||Mean AP|0.762|0.766|
+
+### After Patch + GSD Performance
+|||Before Improvement|After Improvement|
+|---|---|---|---|
+|Vehicle|Recall|0.868|0.840|
+||Precision|0.624|0.560|
+||F1-Score|0.726|0.672|
+||AP|0.799|0.788|
+|Ship|Recall|0.761|0.801|
+||Precision|0.539|0.523|
+||F1-Score|0.631|0.633|
+||AP|0.670|0.737|
+|Airplane|Recall|0.876|0.969|
+||Precision|0.805|0.892|
+||F1-Score|0.839|0.929|
+||AP|0.816|0.908|
+|Total|Mean Recall|0.835|0.870|
+||Mean Precision|0.656|0.658|
+||Mean F1 Score|0.732|0.745|
+||Mean AP|0.762|0.811|
