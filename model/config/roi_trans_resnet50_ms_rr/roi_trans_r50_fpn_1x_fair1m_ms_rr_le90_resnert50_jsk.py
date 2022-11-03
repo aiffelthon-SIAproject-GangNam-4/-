@@ -1,4 +1,4 @@
-_base_ = ['./roi_trans_r50_fpn_1x_fair1m_le90_jsk.py']
+_base_ = ['./roi_trans_r50_fpn_1x_fair1m_le90_resnet50_jsk.py']
 
 data_root = 'data/fair1m2.0/'
 angle_version = 'le90'
