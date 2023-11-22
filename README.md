@@ -48,10 +48,10 @@ AIFFEL 강남 4기 해커톤 팀 아폴로입니다.
 <br/><br/>
 
 ## Reference
-Xian Sun et al. FAIR1M: A Benchmark Dataset for Fine-grained Object Recognition in High-Resolution Remote Sensing Imagery. ISPRS, 2022.
-<br/>Yue Zhou et al. MMRotate: A Rotated Object Detection Benchmark using PyTorch. 2022,  ACM MM.
+Xian Sun et al. FAIR1M: A Benchmark Dataset for Fine-grained Object Recognition in High-Resolution Remote Sensing Imagery. 2022, ISPRS.
+<br/>Yue Zhou et al. MMRotate: A Rotated Object Detection Benchmark using PyTorch. 2022, ACM MM.
 <br/>Kai Chen et al. MMDetection: Open MMLab Detection Toolbox and Benchmark. 2019, arXiv preprint arXiv:1906.07155.
-<br/>Jian Ding et al. Learning RoI Transformer for Oriented Object Detection in Aerial Images. 2019, IEEE/CVF.
+<br/>Jian Ding et al. Learning RoI Transformer for Oriented Object Detection in Aerial Images. 2019, CVPR.
 <br/>Kaiming He et al. Deep Residual Learning for Image Recognition. 2016, IEEE.
 <br/>Gui-Song Xia et al. DOTA: A Large-scale Dataset for Object Detection in Aerial Images. 2018, CVPR.
 <br/>Alexander Buslaev et al. Albumentations: fast and flexible image augmentations. 2020, Information.
