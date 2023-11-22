@@ -45,3 +45,17 @@ AIFFEL 강남 4기 해커톤 팀 아폴로입니다.
 * Code Editor : Google Colab
 * GPU : K80
 * RAM : 52GB
+<br/><br/>
+
+## Reference
+Xian Sun et al. FAIR1M: A Benchmark Dataset for Fine-grained Object Recognition in High-Resolution Remote Sensing Imagery. ISPRS, 2022.
+<br/>Yue Zhou et al. MMRotate: A Rotated Object Detection Benchmark using PyTorch. 2022,  ACM MM.
+<br/>Kai Chen et al. MMDetection: Open MMLab Detection Toolbox and Benchmark. 2019, arXiv preprint arXiv:1906.07155.
+<br/>Jian Ding et al. Learning RoI Transformer for Oriented Object Detection in Aerial Images. 2019, IEEE/CVF.
+<br/>Kaiming He et al. Deep Residual Learning for Image Recognition. 2016, IEEE.
+<br/>Gui-Song Xia et al. DOTA: A Large-scale Dataset for Object Detection in Aerial Images. 2018, CVPR.
+<br/>Alexander Buslaev et al. Albumentations: fast and flexible image augmentations. 2020, Information.
+<br/>Ross Girshick et al. Rich feature hierarchies for accurate object detection and semantic segmentation. 2014, CVPR.
+<br/>Jan Hosang et al. Learning non-maximum suppression. 2017, CVPR.
+<br/>Hamid Rezatofighi et al. Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression. 2019, CVPR.
+<br/><br/><br/>
